@@ -1,6 +1,6 @@
 {
-    "name": "gestor",
-    "short_name": "gestor",
+    "name": "barracadavera",
+    "short_name": "barracadavera",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
